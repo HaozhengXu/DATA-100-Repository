@@ -13,4 +13,4 @@
 
 ## Challenge Question for 1.4:
 
-###### 
+###### ![](challenge question.png)

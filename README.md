@@ -8,3 +8,9 @@
 ## Picture for 1.4:
 
 ###### ![](截屏2021-02-08 下午4.26.22.png)
+
+
+
+## Challenge Question for 1.4:
+
+###### 

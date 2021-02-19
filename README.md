@@ -19,7 +19,9 @@
 
 
 
-[Reflection](https://docs.google.com/document/d/1tauA0HOqAXerVZ25IcMBbp21wflgHXanwBNmVY57SaQ/edit)
+######[Reflection](https://docs.google.com/document/d/1tauA0HOqAXerVZ25IcMBbp21wflgHXanwBNmVY57SaQ/edit)
+
+If the link does not work, the following is also my reflection
 
 
 Joshua Blumenstock presents a number of promise, pitfalls, and ways forward about how data science defines the general public and helps people in need. Regarding the three statements from my classmates, I would say that transparency is undoubtedly a respect that would enhance the use of data science introduced by Blumenstock; however, good intent is not strictly needed; and balancing act would eventually be reached.

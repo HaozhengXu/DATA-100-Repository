@@ -1,6 +1,5 @@
 # Introducing myself to you
-
-## My name is Haozheng Xu from China and I am a freshman in W&M. Though I havent' been to the campus yet, I really wish to attend classes in person in Williamsburg. I love playing 🏀 , 🏈 , and 🏃. Plus, I intend to major in Finance in W&M but I want to absorb knowledge if Computer Science.
+My name is Haozheng Xu from China and I am a freshman in W&M. Though I havent' been to the campus yet, I really wish to attend classes in person in Williamsburg. I love playing 🏀 , 🏈 , and 🏃. Plus, I intend to major in Finance in W&M but I want to absorb knowledge if Computer Science.
 
 ![](details.png)
 
@@ -19,7 +18,8 @@
 
 
 
-######[Reflection](https://docs.google.com/document/d/1tauA0HOqAXerVZ25IcMBbp21wflgHXanwBNmVY57SaQ/edit)
+###### Reflection
+[Reflection](https://docs.google.com/document/d/1tauA0HOqAXerVZ25IcMBbp21wflgHXanwBNmVY57SaQ/edit)
 
 If the link does not work, the following is also my reflection
 

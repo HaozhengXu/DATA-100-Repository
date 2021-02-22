@@ -33,3 +33,7 @@ Regarding the pitfalls the author points out, Blumenstock raises four different 
 
 Considering my classmates’ arguments. I would say that indeed, good intent is not enough in data science since I believe that people need to be driven by profits since one cannot expect people to work hard solely for charity purposes, which is, from my understanding, good intent raised by Raymond: I believe that good intent according to Raymond means that people use data science to truly help the poor. As presented by Adam Smith, the economic market reaches its equilibrium when each party of the market gets its largest profit they could possibly get, as a result, I believe that it is only monetary encouragement or status promotion that can indeed make people self-driven.
 Transparency is also essential in the data science use since if there is not transparency, as mentioned also in the passage, people would be using data science for unlawful purposes, people’s information privacy is violated, and in turn, people’s safety is risked. Lastly, regarding the balancing act, I would say that there is still a long way to go, but as long as people are trying, there will eventually be regulations, advanced technology, and intelligent scientists that can help reach the balance.
+
+
+## Project1
+###### ![]

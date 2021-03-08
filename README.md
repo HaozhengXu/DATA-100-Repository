@@ -38,4 +38,4 @@ Transparency is also essential in the data science use since if there is not tra
 ## Project1
 ###### ![](project 1.png)
 
-[project 2](Project2.html)
+## [project 2](Project2.html)

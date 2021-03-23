@@ -44,5 +44,8 @@ Transparency is also essential in the data science use since if there is not tra
 ## Project 2 challenge question
 ###### ![](lao_pop21_.png)
 
+## Project 2
+####### ![](Laos.png)
+
 ## Reflection #2
 [Reflection #2](Reflection 2.md)

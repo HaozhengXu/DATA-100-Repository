@@ -49,3 +49,6 @@ Transparency is also essential in the data science use since if there is not tra
 
 ## Reflection #2
 [Reflection #2](Reflection 2.md)
+
+## Project 3
+[Project #3](Project 3.md)

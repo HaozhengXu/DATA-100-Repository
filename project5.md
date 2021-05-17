@@ -1,5 +1,7 @@
 ## accessibility1
 ![](accessibility1.png)
+
+## Stretch goal
 ![](stretchgoal.png)
 Because of the place I choose is pretty small, it is actually not urbanized well, so there are not many urban areas.
 
